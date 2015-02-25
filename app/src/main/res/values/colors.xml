@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bideancolors_gris_claro">#d8d8d8</color>
+    <color name="bideancolors_gris_oscuro">#202020</color>
+    <color name="bideancolors_gris_medio">#808080</color>
+    <color name="bideancolors_color">#673ab7</color>
+    <color name="bideancolors_color_claro">#d1c4e9</color>
+    <color name="bideancolors_color_oscuro">#512da8</color>
+    <color name="bideancolors_color_destacado">#8BC34A</color>
+    <color name="bideancolors_color_destacado_claro">#dcedc8</color>
+    <color name="bideancolors_color_destacado_oscuro">#689F38</color>
+    <color name="bideancolors_color_linea_divisoria">#d1c4e9</color>
+    <color name="bideancolors_color_linea_divisoria_lista">#d1c4e9</color>
+    <color name="bideancolors_color_cabecera_lista">#d1c4e9</color>
+    <color name="bideancolors_color_marcador_inicio">#ff9800</color>
+    <color name="bideancolors_color_marcador_final">#ff9800</color>
+    <color name="bideancolors_color_marcador_localizacion_actual">#673ab7</color>
+    <color name="bideancolors_borde_avatar">#d1c4e9</color>
+</resources>
