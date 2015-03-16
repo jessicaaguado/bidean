@@ -13,4 +13,18 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
 
+    <!-- OPCIONES NAVIGATION DRAWER-->
+    <string-array name="opciones_navigation_drawer">
+        <item>Sitios</item>
+        <item>Contactos</item>
+        <item>Banoa</item>
+        <item>Ajustes</item>
+    </string-array>
+    <string-array name="iconos_navigation_drawer">
+        <item>ic_navigation_section_sitios</item>
+        <item>ic_navigation_section_contactos</item>
+        <item>ic_navigation_section_banoas</item>
+        <item>ic_navigation_section_ajustes</item>
+    </string-array>
+
 </resources>
